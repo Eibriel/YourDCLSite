@@ -1,0 +1,8 @@
+{
+  "name": "MyDCL.Site",
+  "description": "Link shortener service for Decentraland",
+  "repository": "https://github.com/Eibriel/YourDCLSite",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
